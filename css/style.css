@@ -181,6 +181,10 @@ h1, h2, h3 {
   display: none;
 }
 
+.logo-footer-desktop {
+  display: block;
+}
+
 .btn-newsletter-footer {
   background: white;
   padding: 8px 34px;
@@ -272,6 +276,7 @@ img.heart-like {
 .social-icons a.pinterest:hover {
   background-color: #c8232c;
 }
+
 
 /* HERO */
 .bg-hero-image {
