@@ -71,6 +71,11 @@ h1, h2, h3 {
   display: none;
 }
 
+::selection {
+  color: #577F67;
+  background: #f8ece0;
+}
+
 /* MAIN NAVIGATION */
 .top-bar-right {
   display: flex;
@@ -293,7 +298,7 @@ img.heart-like {
 }
 
 .hero-para {
-  width: 35%;
+  width: 25%;
   font-weight: 200;
   line-height: 1.3rem;
 }
