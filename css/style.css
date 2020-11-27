@@ -109,6 +109,7 @@ h1, h2, h3 {
 
 .cart-btn {
   margin-right: 7px;
+  cursor: pointer;
 }
 
 .rounded-span {
@@ -123,6 +124,7 @@ h1, h2, h3 {
   line-height: 1rem;
   color: white;
   opacity: 0.5;
+  cursor: pointer;
 }
 
 .nav-links {
@@ -202,6 +204,7 @@ h1, h2, h3 {
 .btn-newsletter-footer:hover {
   color: #43464E;
   background-color: #ECBA82;
+  cursor: pointer;
 }
 
 .site-footer hr {
@@ -631,6 +634,7 @@ div.col-icon {
 .btn-newsletter:hover {
   color: white;
   background-color: #43464E;
+  cursor: pointer;
 }
 
 .promo-banner-title, .promo-banner-paragraph {
