@@ -27,7 +27,8 @@
   }
 
   .nav-logo {
-    width: 10rem;
+    width: 160px;
+    margin-left: 15px;
   }
 
   .mobile-menu {
@@ -39,6 +40,7 @@
   .top-bar-right {
     margin-top: 0;
     margin-bottom: 0;
+    margin-right: 0;
   }
 
   .desktop-menu {
