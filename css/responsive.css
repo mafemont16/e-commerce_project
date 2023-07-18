@@ -34,7 +34,8 @@
   .mobile-menu {
     display: flex;
     justify-content: space-between;
-    margin-top: 45px;
+    align-items: center;
+    margin-top: 15px;
   }
 
   .top-bar-right {

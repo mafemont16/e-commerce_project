@@ -179,6 +179,7 @@ flex-direction: row;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  padding: 0px 40px 0 40px;
 }
 
 .text-description-footer {
